@@ -1,7 +1,7 @@
 # Python code to demonstrate working of unittest
 import unittest
 
-#hello Sandhya
+#Hello Sandhya
 
 class TestStringMethods(unittest.TestCase):
 	
